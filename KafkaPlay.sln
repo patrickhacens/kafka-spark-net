@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Producer", "Producer\Producer.csproj", "{6EB9B2DC-548C-44D4-B7FB-CAECD2A13C99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spark", "Spark\Spark.csproj", "{977B2F75-8960-42AF-9F6F-A52165986F9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EB9B2DC-548C-44D4-B7FB-CAECD2A13C99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EB9B2DC-548C-44D4-B7FB-CAECD2A13C99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EB9B2DC-548C-44D4-B7FB-CAECD2A13C99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EB9B2DC-548C-44D4-B7FB-CAECD2A13C99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{977B2F75-8960-42AF-9F6F-A52165986F9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{977B2F75-8960-42AF-9F6F-A52165986F9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{977B2F75-8960-42AF-9F6F-A52165986F9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{977B2F75-8960-42AF-9F6F-A52165986F9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D8FD4B3-D330-489D-96B4-9B62AE94BB23}
+	EndGlobalSection
+EndGlobal

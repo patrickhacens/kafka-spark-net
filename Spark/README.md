@@ -1,0 +1,2 @@
+﻿how to run 
+> %SPARK_HOME%\bin\spark-submit --packages org.apache.spark:spark-sql-kafka-0-10_2.11:2.4.1  --class org.apache.spark.deploy.dotnet.DotnetRunner --master local C:\Users\patri\.nuget\packages\microsoft.spark\0.10.0\jars\microsoft-spark-2.4.x-0.10.0.jar dotnet C:\Users\patri\source\repos\KafkaPlay\Spark\bin\Debug\netcoreapp3.1\Spark.dll
